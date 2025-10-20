@@ -2,8 +2,7 @@
 
 ## Github Stats
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=AlexChapin&layout=compact&count_private=true&theme=tokyonight">
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=AlexChapin&show_icons=true&count_private=true&theme=tokyonight" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexChapin&layout=compact&count_private=true&theme=tokyonight" /> 
+<img src="https://github-readme-stats.vercel.app/api?username=AlexChapin&show_icons=true&count_private=true&theme=tokyonight" />
 
 
 ## Programming Languages
