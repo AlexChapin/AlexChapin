@@ -13,7 +13,7 @@
 
 [![AlexChapin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AlexChapin&bg_color=100f0f&color=4c5e9e&line=4c569e&point=403e41&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-div>
+<div>
 
 
 
