@@ -1,4 +1,11 @@
+# Alex Chapin
+## About Me
 
+
+
+### Organizations
+- 2025-Present: [Terps Racing EV](https://github.com/terps-racing-ev) - Electrical Engineer, Testing Software Engineer
+- 2021–2025: [Glenelg High School FRC Team 888](https://github.com/Robotiators-888) - Systems Lead
 
 ## Github Stats
 
@@ -18,7 +25,7 @@
 
 
 ## Programming Languages
-<img src = 'https://github.com/AlexChapin/AlexChapin/blob/main/Images/c-original.svg' width='30'/> <img src = 'https://github.com/AlexChapin/AlexChapin/blob/main/Images/cpp.svg' width='30'/> <img src = 'https://github.com/AlexChapin/AlexChapin/blob/main/Images/python2.svg' height='30'/>  <img src = 'https://github.com/AlexChapin/AlexChapin/blob/main/Images/html.svg' width='30'/> <img src='https://github.com/AlexChapin/AlexChapin/blob/main/Images/java.svg' width='30'/><img src = 'https://github.com/AlexChapin/AlexChapin/blob/main/Images/bash.svg' width='30'/>
+<img src = 'https://github.com/AlexChapin/AlexChapin/blob/main/Images/c-original.svg' width='30'/> <img src = 'https://github.com/AlexChapin/AlexChapin/blob/main/Images/cpp.svg' width='30'/> <img src = 'https://github.com/AlexChapin/AlexChapin/blob/main/Images/python2.svg' height='30'/>  <img src = 'https://github.com/AlexChapin/AlexChapin/blob/main/Images/html.svg' width='30'/><img src = 'https://github.com/AlexChapin/AlexChapin/blob/main/Images/css.svg' width='30'/>  <img src='https://github.com/AlexChapin/AlexChapin/blob/main/Images/java.svg' width='30'/><img src = 'https://github.com/AlexChapin/AlexChapin/blob/main/Images/bash.svg' width='30'/>
 
 
 
