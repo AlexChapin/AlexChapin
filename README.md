@@ -10,8 +10,8 @@
 ## Github Stats
 
 <div align="center">
-<img height="180em" src = "https://github-readme-stats-d3id1d910-alex-chapins-projects.vercel.app/api/top-langs/?username=AlexChapin&layout=compact&count_private=true&theme=tokyonight">
-<img height="180em" src = "https://github-readme-stats-d3id1d910-alex-chapins-projects.vercel.app/api?username=AlexChapin&show_icons=true&count_private=true&theme=tokyonight&show=reviews,prs_merged" />
+<img height="180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=AlexChapin&layout=compact&count_private=true&theme=tokyonight">
+<img height="180em" src = "https://github-readme-stats.vercel.app/api?username=AlexChapin&show_icons=true&count_private=true&theme=tokyonight&show=reviews,prs_merged" />
 <img src = "https://github-readme-streak-stats.herokuapp.com/?user=AlexChapin&&theme=tokyonight" alt="AlexChapin" />
 <div>
 <h3 align="left">Activity:</h3>
