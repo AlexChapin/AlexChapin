@@ -52,7 +52,9 @@ I specialize in building systems where software meets hardware. I enjoy tackling
 ### 📈 Activity
 
 <div align="center">
-  [![AlexChapin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AlexChapin&bg_color=100f0f&color=4c5e9e&line=4c569e&point=403e41&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlexChapin&bg_color=100f0f&color=4c5e9e&line=4c569e&point=403e41&area=true&hide_border=true" alt="AlexChapin's github activity graph" />
+  </a>
 </div>
 
 ---
